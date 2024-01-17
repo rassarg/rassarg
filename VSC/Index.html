@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Rasheeda Sarguro's Copdespace Portfolio Homepage</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Rasheeda Sarguro's First Codespace HTML Page">
+	<meta name="author" content="Rasheeda Sarguro">
+</head>
+<body>
+	<header>
+	<h1>Rasheeda's Portfolio 🎨</h1>
+	</header>
+		<ul>
+			<li><a href="#about-me" target="_self">About Me 👋🏻</a></li>
+			<li><a href="#skills" target="_self">Skills ⚒️</a></li>
+			<li><a href="#portfolio" target="_self">Portfolio 📷</a></li>
+			<li><a href="#contact" target="_self">Contact Me 👍🏻</a></li>
+		</ul>
+	<section>
+		<h2 id="about-me">About Me</h2>
+			<img src="cat-codespace.png" width="210" height="210" alt="This is an image of a codespace cat" title="Codespace Cat!">
+			<p>Hello!<br>I'm Rasheeda Sarguro. Come along with me on my journey to create my very own coding profile!</p>
+	</section>
+	<section>
+		<h2 id="skills">Skills</h2>
+			<ul>
+				<li>Web Development</li>
+				<li>HTML Coding</li> 
+			</ul>
+	</section>
+	<section>
+		<h2  id="portfolio">Portfolio</h2>
+	<table width="1000">
+		<thead align="justify">
+			<tr>
+				<th>Project Name</th>
+				<th>Date</th>
+				<th>Description</th>
+				<th>Thumbnail</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr align="justify">
+				<td>CodeSpace Cat HTML Portfolio</td>
+				<td>January 2024</td>
+				<td>Learning how to use HTML</td>
+				<td> <img src="cat-1.png" width="200" alt="orange cat with can of food"></td>
+			<tr align="justify">
+				<td>Kitty Commerce</td>
+				<td>February 2024</td>
+				<td>An online store selling the fanciest catnip toys</td>
+				<td><img src="cat-2.png" width="200" alt="Images of a home with a bed and spaces for cats"></td>
+			<tr align="justify">
+				<td>CatChat Social</td>
+				<td>June 2024</td>
+				<td>A social media site for cats to meow and hiss!</td>
+				<td><img src="cat-3.png" width="200" alt="Image of phone with cat social media profiles"></td>
+			</tr>
+		</tbody>
+	</table>
+	</section>
+		<footer>
+		<h2 id="contact">Contact Me</h2>
+		<!--unfinalized PHP-->
+		<form action="contact.php" method="post">
+			<label for="name">Name:</label>
+			<input type="text" id="name" required>
+			<label for="email">Email:</label>
+			<input type="email" id="email" required>
+			<label for="message">Message:</label>
+			<textarea id="message" rows="3" required></textarea>
+			<button type="submit">Submit</button>
+		</form>
+		<p>&copy;2024 Codespace Cat. All rights reserved.</p>
+		</footer>
+</body>
+</html>
