@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @rassarg
-- 👀 I’m interested in travelling and learning new things!
-- 🌱 I’m currently learning how to code
-- ⚡ Fun fact: I've been to over 100 cities!
+Loom Presentation for [SDF01] Project: CS Cat HTML Portfolio:
 
-<!---
-rassarg/rassarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://www.loom.com/share/c12aa56d161c476ea7aacc84ef3704e0?sid=ec8f69f9-bd6a-46fb-a18e-755b5e7796d8
