@@ -10,7 +10,7 @@ I am a student, currently enrolled in Software Development at CodeSpace Academy!
 * ✉️  You can contact me at [raskieda@gmail.com](mailto:raskieda@gmail.com)
 * 🧠  I'm currently learning Javascript
 * 🤝  I'm open to collaborating on Javascript projects
-* ⚡  I've travelled to over 100 countries!
+* ⚡  I've traveled to over 100 countries!
 
 ### Skills
 
@@ -33,3 +33,13 @@ I am a student, currently enrolled in Software Development at CodeSpace Academy!
 <a href="http://www.github.com/rassarg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rassarg&stroke=444e59&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=444e59&currStreakLabel=14b8a6&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
 <a href="https://github.com/rassarg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassarg&langs_count=10&title_color=14b8a6&text_color=444e59&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Projects:
+
+## Cache Bank
+
+Github: https://github.com/rassarg/RASSAR324_FTO2401_GROUPA2_Rasheeda-Sarguro_SDF11 <br>
+<br>
+<img src="../Project assets/SDF11 Cache Bank Landing Page.png" alt="Cache Bank landing page" width="400" height="300" />
+
+#### Description: A landing page for a fictitious bank <br>
