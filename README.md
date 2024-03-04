@@ -32,6 +32,4 @@ I am currently enrolled in Software Development at Codespace Academy
 
 <a href="http://www.github.com/rassarg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rassarg&stroke=444e59&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=444e59&currStreakLabel=14b8a6&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-<a href="http://www.github.com/rassarg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rassarg&bg_color=ffffff&color=444e59&line=14b8a6&point=444e59&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/rassarg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassarg&langs_count=10&title_color=14b8a6&text_color=444e59&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
