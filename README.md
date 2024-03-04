@@ -4,13 +4,13 @@ Hi 👋 My name is Rasheeda
 Software developer
 ------------------
 
-I am a student, currently enrolled in Software Development at CodeSpace Academy!
+I am a Software Development student currently enrolled at CodeSpace Academy!
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [raskieda@gmail.com](mailto:raskieda@gmail.com)
 * 🧠  I'm currently learning Javascript
 * 🤝  I'm open to collaborating on front-end development projects
-* ⚡  I'd love to apply my software development knowledge to the aviation or medical industry as I have background in both of these fields
+* ⚡  I'd love to apply my software development knowledge to the aviation or medical industry as I have backgrounds in both of these fields
 
 ### Skills
 
