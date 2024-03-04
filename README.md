@@ -38,8 +38,8 @@ I am a student, currently enrolled in Software Development at CodeSpace Academy!
 
 ## Cache Bank
 
-Github: https://github.com/rassarg/RASSAR324_FTO2401_GROUPA2_Rasheeda-Sarguro_SDF11 <br>
+🔗 Github: https://github.com/rassarg/RASSAR324_FTO2401_GROUPA2_Rasheeda-Sarguro_SDF11 <br>
 <br>
-<img src="../Project assets/SDF11 Cache Bank Landing Page.png" alt="Cache Bank landing page" width="400" height="300" />
+<img src="../Project assets/images/SDF11 Cache Bank Landing Page.png" alt="Cache Bank landing page" width="400" height="300" />
 
 #### Description: A landing page for a fictitious bank <br>
