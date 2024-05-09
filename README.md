@@ -27,7 +27,7 @@ I am a Software Development student currently enrolled at CodeSpace Academy!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rassarg"><img src="https://github-readme-stats.vercel.app/api?username=rassarg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rassarg's GitHub stats" /></a>
+<a href="http://www.github.com/rassarg"><img src="https://github-readme-stats.vercel.app/api?username=rassarg&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="rassarg's GitHub stats" /></a>
 
 <a href="http://www.github.com/rassarg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rassarg&stroke=444e59&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=444e59&currStreakLabel=14b8a6&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
